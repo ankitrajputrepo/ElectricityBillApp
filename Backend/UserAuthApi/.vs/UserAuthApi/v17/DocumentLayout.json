@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\consumercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\consumercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\migrations\\20241102023731_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\migrations\\20241102023731_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|c:\\users\\ankit\\onedrive\\desktop\\personalproject\\backend\\userauthapi\\userauthapi\\migrations\\20241102024233_phase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED060CCF-D397-4B01-962E-C9F1B64ABA96}|userauthapi\\userauthapi.csproj|solutionrelative:userauthapi\\migrations\\20241102024233_phase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241102023731_phase1.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Migrations\\20241102023731_phase1.cs",
+              "RelativeDocumentMoniker": "userauthapi\\Migrations\\20241102023731_phase1.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Migrations\\20241102023731_phase1.cs",
+              "RelativeToolTip": "userauthapi\\Migrations\\20241102023731_phase1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:37:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\appsettings.json",
+              "RelativeDocumentMoniker": "userauthapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\appsettings.json",
+              "RelativeToolTip": "userauthapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T02:29:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Consumer.cs",
+              "RelativeDocumentMoniker": "userauthapi\\Consumer.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Consumer.cs",
+              "RelativeToolTip": "userauthapi\\Consumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:25:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Program.cs",
+              "RelativeDocumentMoniker": "userauthapi\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Program.cs",
+              "RelativeToolTip": "userauthapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:24:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumerContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\ConsumerContext.cs",
+              "RelativeDocumentMoniker": "userauthapi\\ConsumerContext.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\ConsumerContext.cs",
+              "RelativeToolTip": "userauthapi\\ConsumerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:23:56.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "userauthapi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "userauthapi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:20:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241102024233_phase2.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Migrations\\20241102024233_phase2.cs",
+              "RelativeDocumentMoniker": "userauthapi\\Migrations\\20241102024233_phase2.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\personalProject\\Backend\\UserAuthApi\\userauthapi\\Migrations\\20241102024233_phase2.cs",
+              "RelativeToolTip": "userauthapi\\Migrations\\20241102024233_phase2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:42:34.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
